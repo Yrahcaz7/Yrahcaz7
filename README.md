@@ -12,8 +12,9 @@ I’m currently working on various projects, such as [Dungeon of Souls](https://
 <img src="https://github.com/devicons/devicon/blob/master/icons/p5js/p5js-original.svg" title="p5.js" alt="p5.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-<img src="images/Inform7.png" title="Inform7" alt="Inform7" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="GDScript" alt="GDScript" width="40" height="40"/>&nbsp;
+<img src="images/Inform7.png" title="Inform7" alt="Inform7" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
 
 ### 🔥 My Stats:
 
