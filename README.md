@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Yrahcaz7&style=flat&color=lightgrey" alt=""/>
 
-I’m currently working on various projects, such as [Dungeon of Souls](https://github.com/Yrahcaz7/Dungeon-of-Souls).
+I’m currently busy with college, but in my spare time I still work on various projects, such as [The Septenary Forest](https://github.com/Yrahcaz7/The-Septenary-Forest).
 
 ### 🛠 Used Languages and Libraries:
 
@@ -14,7 +14,8 @@ I’m currently working on various projects, such as [Dungeon of Souls](https://
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="GDScript" alt="GDScript" width="40" height="40"/>&nbsp;
 <img src="images/Inform7.png" title="Inform7" alt="Inform7" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
 
 ### 🔥 My Stats:
 
